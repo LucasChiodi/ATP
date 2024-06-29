@@ -1,0 +1,14 @@
+C:\Lucas chiodi\PUC\atp\lista6\bin\Debug\net8.0\atp.exe
+C:\Lucas chiodi\PUC\atp\lista6\bin\Debug\net8.0\atp.deps.json
+C:\Lucas chiodi\PUC\atp\lista6\bin\Debug\net8.0\atp.runtimeconfig.json
+C:\Lucas chiodi\PUC\atp\lista6\bin\Debug\net8.0\atp.dll
+C:\Lucas chiodi\PUC\atp\lista6\bin\Debug\net8.0\atp.pdb
+C:\Lucas chiodi\PUC\atp\lista6\obj\Debug\net8.0\atp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lucas chiodi\PUC\atp\lista6\obj\Debug\net8.0\atp.AssemblyInfoInputs.cache
+C:\Lucas chiodi\PUC\atp\lista6\obj\Debug\net8.0\atp.AssemblyInfo.cs
+C:\Lucas chiodi\PUC\atp\lista6\obj\Debug\net8.0\atp.csproj.CoreCompileInputs.cache
+C:\Lucas chiodi\PUC\atp\lista6\obj\Debug\net8.0\atp.dll
+C:\Lucas chiodi\PUC\atp\lista6\obj\Debug\net8.0\refint\atp.dll
+C:\Lucas chiodi\PUC\atp\lista6\obj\Debug\net8.0\atp.pdb
+C:\Lucas chiodi\PUC\atp\lista6\obj\Debug\net8.0\atp.genruntimeconfig.cache
+C:\Lucas chiodi\PUC\atp\lista6\obj\Debug\net8.0\ref\atp.dll
